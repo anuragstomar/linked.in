@@ -1,0 +1,156 @@
+
+.box1 img{
+    height: 40px;
+    width: 40px;
+}
+.box1{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    margin-left: 3rem;
+    background-color: beige;
+    height: 3rem;
+    position: fixed;
+    
+    
+    
+}
+
+.input input{
+    border: 1px solid gainsboro;
+    background-color: gainsboro;
+    height: 40px;
+    width: 200px;
+    text-align: left
+    
+}
+.mangnify i{
+ height: 44px;
+ width: 40px;
+ background-color: gainsboro;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ margin-left: 1rem;
+}
+.box2{
+    
+        display: flex;
+        margin-left: 11rem;
+        align-items: center;
+        justify-content: center;
+        gap: 7rem;
+        font-size: medium;
+        text-align: center;
+        margin-top: 1rem;
+       
+}
+.icons img{
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    
+
+}
+.text i{
+   margin-bottom: 0.4rem;
+}
+/* .navbar{
+    position: fixed;
+} */
+.leftbar{
+    height: 800px;
+    width: 25%;
+    background-color: yellow;
+}
+.middle{
+    height: 800px;
+    width: 50%;
+    background-color: red;
+}
+.rightbar{
+    height: 800px;
+    width: 25%;
+    background-color: greenyellow;
+}
+.postsection{
+    display: flex;
+
+}
+.topsection{
+    height: 8rem;
+    width: 40rem;
+    background-color: white;
+    margin-top: 5rem;
+    margin-left: 3rem;
+    border-radius: 10px;
+}
+.upper img{
+    height: 50px;
+    width: 50px;
+    border-radius: 100%;
+}
+.upper{
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+}
+.upper input{
+    margin-left: 15px;
+    border: 2px solid gainsboro;
+    border-radius: 25px;
+    height: 40px;
+    width: 500px;
+    padding: 3px;
+}
+.top_icons{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.topicons{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 10px;
+}
+.likes img{
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+
+}
+.likes{
+    height: 8rem;
+    width: 40rem;
+    background-color: white;
+    padding: 3px;
+    margin-left: 3rem;
+    border-radius: 10px;
+    display: flex;
+ 
+    
+}
+.post img{
+    height: 40rem;
+    width: 40rem;
+    margin-left: 3rem;
+}
+.boxx1{
+    height: 25rem;
+    width: 15rem;
+    background-color: cyan;
+    margin-top: 5rem;
+    margin-left: 3rem;
+    
+}
+.boxx2{
+    height: 20rem;
+    width: 15rem;
+    background-color: blue;
+    margin-top: 1rem;
+    margin-left: 3rem;
+    position:sticky;
+    top: 0;
+    padding: 5px;
+}
